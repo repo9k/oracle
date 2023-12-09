@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaabzuss3aqj4npaz7eegptac5k3r5vewqhy6okvi6nd6pwsfepahga
+fingerprint=4c:4c:7e:bb:57:b9:25:60:84:b3:20:57:82:a0:32:a1
+tenancy=ocid1.tenancy.oc1..aaaaaaaauyy23ab2s2a2k3lq7itgschf6qkz5rsxufnq6fzls4si53f4ruhq
+region=me-jeddah-1
+key_file=oracle-kye.pem
